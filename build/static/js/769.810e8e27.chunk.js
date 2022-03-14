@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdynamic_load=self.webpackChunkdynamic_load||[]).push([[769],{769:function(e,n,c){c.r(n);var i=c(504),a=c(184);n.default=function(){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)("main",{children:[(0,a.jsx)("h2",{children:"Welcome to the homepage!"}),(0,a.jsx)("p",{children:"You can do this, I believe in you."})]}),(0,a.jsx)("nav",{children:(0,a.jsx)(i.rU,{to:"/about",children:"About"})})]})}}}]);
+//# sourceMappingURL=769.810e8e27.chunk.js.map
